@@ -1,6 +1,6 @@
 ### Hi there 👋 [![](https://visitor-badge.glitch.me/badge?page_id=senocak)]()
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=Connect&message=@anilsenocak27&color=grey&logo=linkedin&labelColor=0088ff&style=social)](https://www.linkedin.com/in/kush-choudhary-567b38169?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDYkgbUGhTniMSRqOUkdN3A%3D%3D)
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=Connect&message=@anilsenocak27&color=grey&logo=linkedin&labelColor=0088ff&style=social)](https://www.linkedin.com/in/anilsenocak27/)
 [![Github Gists](https://img.shields.io/github/followers/1uc1f3r616?color=0088ff&label=Gists&logoColor=blue&style=social)](https://gist.github.com/senocak)
 
 Here are some ideas to get you started:
