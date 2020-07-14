@@ -6,9 +6,7 @@
 
 ![Kush's github stats](https://github-readme-stats.vercel.app/api?username=senocak&show_icons=true&&hide_border=true)
 
-<!-- ![Kush's github stats](https://github-readme-stats.1uc1f3r616.vercel.app/api?username=senocak&show_icons=true&&hide_border=true) -->
-
-
+<!-- ![Kush's github stats](https://github-readme-stats.1uc1f3r616.vercel.app/api?username=senocak&show_icons=true&&hide_border=true) 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java/NodeJS/Laravel
@@ -19,3 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
