@@ -7,10 +7,10 @@ const me = {
     code: ["Javascript", "Java", "Php"],
     askMeAbout: ["web dev", "tech", "app dev", "music", "guitar"],
     technologies: {
-        backend: ["Laravel", "NodeJS", "Spring"],
         backEnd: {
             js: ["node", "express"],
-            php: ["laravel", "codeigniter"]
+            php: ["laravel", "codeigniter"],
+            java: ["Spring"]
         },
         devOps: ["Docker🐳"],
         databases: ["Mongo", "MySql", "sqlite"],
