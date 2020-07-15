@@ -1,21 +1,32 @@
-### Hi there 👋 [![](https://visitor-badge.glitch.me/badge?page_id=senocak)]()
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=Connect&message=@anilsenocak27&color=grey&logo=linkedin&labelColor=0088ff&style=social)](https://www.linkedin.com/in/anilsenocak27/)
-[![Github Gists](https://img.shields.io/github/followers/1uc1f3r616?color=0088ff&label=Gists&logoColor=blue&style=social)](https://gist.github.com/senocak)
+<h2> Hi, I'm Anıl Şenocak</h2>
 
+```javascript
+const me = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Java", "Php"],
+    askMeAbout: ["web dev", "tech", "app dev", "music", "guitar"],
+    technologies: {
+        backend: ["Laravel", "NodeJS", "Spring"],
+        backEnd: {
+            js: ["node", "express"],
+            php: ["laravel", "codeigniter"]
+        },
+        devOps: ["Docker🐳"],
+        databases: ["Mongo", "MySql", "sqlite"],
+        other: ["Selenium"]
+    },
+    architecture: ["Micro Service", "Progressive web applications", "Single page applications"],
+    currentProject: "I am using and learning Spring Boot for MicroService Architecture",
+    trueFact: "When you feel hopeless think like Atatürk"
+};
+```
 
-![Kush's github stats](https://github-readme-stats.vercel.app/api?username=senocak&show_icons=true&&hide_border=true)
+[![Linkedin: Anıl Şenocak](https://img.shields.io/badge/-AnılŞenocak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anilsenocak27/)](https://www.linkedin.com/in/anilsenocak27/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/senocak?label=follow&style=social)](https://github.com/senocak)
 
-<!-- ![Kush's github stats](https://github-readme-stats.1uc1f3r616.vercel.app/api?username=senocak&show_icons=true&&hide_border=true) 
-Here are some ideas to get you started:
+ [![](https://visitor-badge.glitch.me/badge?page_id=senocak)]()
 
-- 🔭 I’m currently working on Java/NodeJS/Laravel
-- 🌱 I’m currently learning Spring Boot
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with php
-- 💬 Ask me about music
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<!-- 
+![Kush's github stats](https://github-readme-stats.vercel.app/api?username=senocak&show_icons=true&&hide_border=true) 
 -->
