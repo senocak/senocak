@@ -1,6 +1,4 @@
 
-<h2> Hi, I'm Anıl Şenocak</h2>
-
 ```javascript
 const me = {
     pronouns: "He" | "Him",
