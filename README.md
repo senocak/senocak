@@ -24,7 +24,7 @@ const me = {
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/senocak?label=follow&style=social)](https://github.com/senocak)
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=senocak)]()
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=senocak)](https://github.com/)
 
 <!-- 
 ![Kush's github stats](https://github-readme-stats.vercel.app/api?username=senocak&show_icons=true&&hide_border=true) 
