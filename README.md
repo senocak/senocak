@@ -21,7 +21,9 @@ const me = {
 ```
 
 [![Linkedin: Anıl Şenocak](https://img.shields.io/badge/-AnılŞenocak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anilsenocak27/)](https://www.linkedin.com/in/anilsenocak27/)
+
 [![GitHub Thaiane](https://img.shields.io/github/followers/senocak?label=follow&style=social)](https://github.com/senocak)
+
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=senocak)]()
 
 <!-- 
