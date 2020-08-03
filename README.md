@@ -6,7 +6,7 @@ const me = {
     askMeAbout: ["web dev", "tech", "app dev", "music", "guitar"],
     technologies: {
         backEnd: {
-            js: ["node", "express"],
+            js: ["express"],
             php: ["laravel", "codeigniter"],
             java: ["Spring"]
         },
