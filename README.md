@@ -28,4 +28,8 @@ const me = {
 
 <!-- 
 ![Kush's github stats](https://github-readme-stats.vercel.app/api?username=senocak&show_icons=true&&hide_border=true) 
+
+https://github-readme-stats.vercel.app/api?username=senocak&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=senocak&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21
 -->
