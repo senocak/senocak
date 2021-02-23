@@ -22,10 +22,8 @@ const me = {
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=flat&logo=ruby&logoColor=white)
 ![GoLang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white)
+![Php](https://img.shields.io/badge/php-%230175C2.svg?&logo=php&logoColor=white)
 
 [![Linkedin: Anıl Şenocak](https://img.shields.io/badge/-AnılŞenocak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anilsenocak27/)](https://www.linkedin.com/in/anilsenocak27/)
 
