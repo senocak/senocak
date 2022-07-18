@@ -25,8 +25,8 @@ const me = {
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Php](https://img.shields.io/badge/php-%230175C2.svg?&logo=php&logoColor=white)
 
-[![Linkedin: Anıl Şenocak](https://img.shields.io/badge/-AnılŞenocak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anil-senocak/)](https://www.linkedin.com/in/anil-senocak/)
 [![Blog: Anıl Şenocak](https://img.shields.io/badge/blog-anilsenocak-red?style=flat-square&logoColor=white&link=http://anilsenocak.com)]([/](http://anilsenocak.com))
+[![Linkedin: Anıl Şenocak](https://img.shields.io/badge/-AnılŞenocak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anil-senocak/)](https://www.linkedin.com/in/anil-senocak/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/senocak?label=follow&style=social)](https://github.com/senocak)
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=senocak)]()
