@@ -15,7 +15,7 @@ const me = {
         other: ["Selenium"]
     },
     architecture: ["Micro Service", "Progressive web applications", "Single page applications"],
-    currentProject: "I am using and learning Spring Boot for MicroService Architecture",
+    currentProject: "Spring Boot for MicroService Architecture",
     trueFact: "When you feel hopeless think like Atatürk"
 };
 ```
