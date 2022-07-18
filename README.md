@@ -27,6 +27,8 @@ const me = {
 
 [![Linkedin: Anıl Şenocak](https://img.shields.io/badge/-AnılŞenocak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anil-senocak/)](https://www.linkedin.com/in/anil-senocak/)
 
+[![Blog: Anıl Şenocak](https://img.shields.io/badge/blog-anilsenocak-red?style=flat-square&logoColor=white&link=http://anilsenocak.com)]([/](http://anilsenocak.com))
+
 [![GitHub Thaiane](https://img.shields.io/github/followers/senocak?label=follow&style=social)](https://github.com/senocak)
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=senocak)]()
