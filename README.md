@@ -65,8 +65,9 @@ const me = {
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=senocak&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senocak&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=senocak&theme=darcula&hide_border=true&background=FFFFFF00">
+      </td>
     </tr>
   </table>
 </div>
