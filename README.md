@@ -32,7 +32,9 @@ const me = {
   <samp>
     <img src='https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white'>
     <img src='https://img.shields.io/badge/OpenJDK-000000.svg?style=for-the-badge&logo=OpenJDK&logoColor=white'>
-    <img src='https://img.shields.io/badge/springboot-black?&style=flat&logo=springboot&logoColor=green'>
+    <img src='https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white'>
+    <img src='https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white'>
+    <img src='https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=Spring-Security&logoColor=white'>
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white">
     <img src='https://img.shields.io/badge/redis-%230175C2.svg?&logo=redis&logoColor=red'>
   </samp>
