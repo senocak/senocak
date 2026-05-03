@@ -31,7 +31,7 @@ const me = {
 <p align="center">
   <samp>
     <img src='https://img.shields.io/badge/kotlin%20-%2314354C.svg?&style=flat&logo=kotlin&logoColor=white'>
-    <img src='https://img.shields.io/badge/java-1.svg?&style=flat&logo=java&logoColor=white'>
+    <img src='https://img.shields.io/badge/OpenJDK-000000.svg?style=for-the-badge&logo=OpenJDK&logoColor=white'>
     <img src='https://img.shields.io/badge/springboot-black?&style=flat&logo=springboot&logoColor=green'>
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white">
     <img src='https://img.shields.io/badge/redis-%230175C2.svg?&logo=redis&logoColor=red'>
